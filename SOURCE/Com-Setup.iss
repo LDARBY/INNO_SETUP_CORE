@@ -163,7 +163,7 @@
 
     ;latComponentsList               = 
 
-    ;SetupIconFile                   = 
+     SetupIconFile                   = {#My_App_ICON}
     ;ShowComponentSizes              = 
     ;ShowTasksTreeLines              = 
 
